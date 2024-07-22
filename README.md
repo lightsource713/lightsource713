@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me out **kingstone0713@gmail.com**
 
-- 📫 Here is my portfolio **daniel0713.vercel.app**
+- 📫 Here is my portfolio **[daniel0713.vercel.app](https://daniel713.vercel.app/)**
 
 <!--Intro end-->
 
