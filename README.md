@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 ,I'm LightSource</h1>
+<h1 align="center">Hi there 👋 ,I'm Mohammed Qdiha</h1>
 <h3 align="center">Full Stack Web and Mobile Developer specializing in Front-end development. I have experience in Back-end and Front-end analysis and development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolasmosca&label=Profile%20views&color=0e75b6&style=flat" alt="nikolasmosca" /> </p>
 
