@@ -6,12 +6,8 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React ,Nuxt, React Native,Flutter, AWS, Next, Nodejs, Python**
-
-- 🌱 I’m currently learning **to become the expert of hubspot.**
-
+  
 - 📫 Feel free to reach me out **kingstone0713@gmail.com**
-
-
 
 <!--Intro end-->
 
