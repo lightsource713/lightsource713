@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolasmosca" alt="nikolasmosca" /></a> </p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React ,Nuxt, React Native,Flutter, AWS, Next, Nodejs, Python**
+- 🔭 I’m currently working on **React ,Nuxt, React Native,Flutter, Next, Nodejs, Python**
   
 - 📫 Feel free to reach me out **kingstone0713@gmail.com**
 
